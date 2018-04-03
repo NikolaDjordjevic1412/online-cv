@@ -25,18 +25,3 @@ projects:
     title: Websites
     link: "#"
     tagline: "Worked on multiple Websites(HTML/CSS,JQuerry ,React.js)"
-    
-    - project:
-    title: Multiple Websites
-    link: "#"
-    tagline: "Worked on multiple Websites(HTML/CSS,JQuerry)"
-    
-    - project:
-    title: Beer pong Tournament sheet
-    link: "#"
-    tagline: "Made Tournament sheet(Electron)"
-    
-    - project:
-    title: Basketball scoreboard
-    link: "#"
-    tagline: "Build Basketball scoreboard software(Java)"

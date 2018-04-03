@@ -1,5 +1,4 @@
-intro: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor
-  sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+intro: "Cybele Technologies:"
 projects:
   - project:
     title: Mali recnik - Fjalor i vogel
@@ -26,21 +25,6 @@ projects:
     title: Websites
     link: "#"
     tagline: "Worked on multiple Websites(HTML/CSS,JQuerry ,React.js)"
-    
-  - project:
-    title: Websites
-    link: "#"
-    tagline: "Worked on multiple Websites(HTML/CSS,JQuerry ,React.js)"
-    
-    - project:
-    title: Basketball scoreboard
-    link: "#"
-    tagline: "Making basketball scoreboard software(Java)"
-    
-     - project:
-    title: Logo
-    link: "#"
-    tagline: "Making logo car silhouette (PS6)"
 
     
     

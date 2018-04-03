@@ -1,23 +1,28 @@
 intro: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor
   sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
 projects:
-  - project:
-    title: Velocity
-    link: "#hook"
-    tagline: "A responsive website template designed to help startups promote, market and sell their products."
-  - project:
-    title: DevStudio
+  - project:"Cybele Technologies: </br>"
+    title: Mali recnik - Fjalor i vogel
     link: "#"
-    tagline: "A responsive website template designed to help web developers/designers market their services."
+    tagline: "Worked on IOS application for big European Organisation(React Native)<br/>"
+    tagline: "Worked on Android application for big European Organisation(React Native)"
+ 
   - project:
-    title: Tempo
+    title: Zepter(Sobarica)
     link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+    tagline: "Worked on Software for multiple hotels in Europe(React/React Native)"
+    
   - project:
-    title: Atom
+    title: Galenika
     link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+    tagline: "Worked on Android/IOS application for big pharmacy company(React Native)"
+    
   - project:
-    title: Delta
+    title: Japan tobacco
     link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+    tagline: "Worked on VR HTC VIVE for cigarette manufacturing company(Unity)"
+    
+  - project:
+    title: Websites
+    link: "#"
+    tagline: "Worked on multiple Websites(HTML/CSS,JQuerry ,React.js)"

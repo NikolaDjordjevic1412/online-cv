@@ -1,6 +1,6 @@
   intro: "Cybele Technologies:"
  projects:
-  - project:"Cybele Technologies: </br>"
+  - project:
     title: Mali recnik - Fjalor i vogel
     link: "#"
     tagline: "Worked on IOS application for big European Organisation(React Native)<br/>"
